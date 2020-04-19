@@ -13,6 +13,13 @@
             <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
         </developer>
+        <developer>
+            <id>gydora03</id>
+            <name>Dóra György</name>
+            <email>gyorgydora99@gmail.com</email>
+            <organization>Faculty of Informatics, University of Debrecen</organization>
+            <organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
+        </developer>
     </developers>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
